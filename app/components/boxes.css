@@ -1,0 +1,65 @@
+.container {
+    text-align: center;
+    padding: 50px 20px;
+  }
+  
+  .title {
+    font-size: 45px;
+    font-weight: bold;
+    margin-bottom: 20px;
+  }
+  
+  .downloadButton {
+    background-color: #1E90FF;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 50px;
+    cursor: pointer;
+    margin-top: 15px;
+    width: 300px;
+    height: 50px;
+  }
+  
+  .cardContainer {
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+    gap: 20px;
+  }
+  
+  .card {
+    width: 144px;
+    height: 56px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 9px solid #ddd;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 1.2rem;
+    color: #1E90FF;
+    padding: 85px;
+    font-size: 50px;
+  }
+  
+  .helpSection {
+    margin-top: 50px;
+    padding: 20px;
+    background-color: #f1f1f1;
+    border-radius: 5px;
+  }
+  .needhelp{
+    font-size: 45px;
+  }
+  
+  .chatButton {
+    background-color: #1E90FF;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 10px;
+  }
+  
